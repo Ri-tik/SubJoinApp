@@ -7,7 +7,7 @@ Social Media based Android Application for College which broadcasts the shared p
 1. Comment on Posts.
 1. Update Your Profile Information, and much more.
 <br />
-**Screenshots:**
+__Screenshots:__
 <br />
 <img src="https://github.com/Ri-tik/SubJoinApp/blob/master/Sub1.jpg" alt="Script Snap"/>
 <img src="https://github.com/Ri-tik/SubJoinApp/blob/master/Sub2.jpg" alt="Script Snap"/>
